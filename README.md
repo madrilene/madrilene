@@ -1,13 +1,9 @@
-# Hola!  Soy Lene Saile y me dedico a hacer páginas web.  
+# I make accessible, highly optimized custom websites. 
 
-[![Soy Lene Saile y me dedico a hacer páginas web.](https://res.cloudinary.com/lenesaile/image/upload/v1599727203/header-twitter_nz3nqr.png)](https://www.lenesaile.com)
+[![Lene Saile, frontend developer](https://res.cloudinary.com/lenesaile/image/upload/v1666792376/twitter_qvbecw.png)](https://www.lenesaile.com)
 
-Además de hacer webs también hago diseño gráfico, fotografía, SEO y mantenimiento.
+I have been working as a web developer for over 15 years. As a freelancer and on behalf of agencies I have developed and designed countless websites for small and medium-sized enterprises, freelancers, individuals, associations and foundations. I mainly work with the Jamstack architecture and Wordpress. 
 
-Soy alemana, nací en Berlín poco antes de que cayera el muro. Empecé a estudiar programación por mi cuenta y a hacer mis primeras webs. Han pasado muchos años y sigo aprendiendo y estudiando a diario porque me gusta mucho lo que hago y porque en este mundillo todo avanza muy rápido y hay que estar siempre al día.  
-
-Desde hace 2010 vivo y trabajo en Madrid. Actualmente tenemos el estudio en el barrio de La Latina.
-
-¡Para más información, [mira mi página web](https://www.lenesaile.com)!
+[www.lenesaile.com](https://www.lenesaile.com)!
 
 ___
