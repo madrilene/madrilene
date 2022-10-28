@@ -4,6 +4,6 @@
 
 I have been working as a web developer for over 15 years. As a freelancer and on behalf of agencies I have developed and designed countless websites for small and medium-sized enterprises, freelancers, individuals, associations and foundations. I mainly work with the Jamstack architecture and Wordpress. 
 
-[www.lenesaile.com](https://www.lenesaile.com)!
+More about me: [www.lenesaile.com](https://www.lenesaile.com)
 
 ___
